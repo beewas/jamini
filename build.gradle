@@ -24,3 +24,5 @@ dependencies {
 test {
     useJUnitPlatform()
 }
+
+mainClassName = "View"

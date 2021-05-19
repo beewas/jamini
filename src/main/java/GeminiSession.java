@@ -1,5 +1,3 @@
-
-
 import javax.net.ssl.*;
 import java.io.*;
 import java.security.KeyManagementException;
@@ -7,7 +5,6 @@ import java.security.NoSuchAlgorithmException;
 import java.security.SecureRandom;
 import java.security.cert.X509Certificate;
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.List;
 import java.util.Stack;
 
